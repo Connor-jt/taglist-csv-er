@@ -2,7 +2,7 @@
 {
     internal class Program
     {
-        const int max_char_count = 64;
+        const int max_char_count = 100;
         static void Main(string[] args)
         {
             string filepath = "C:\\Users\\Joe bingle\\Downloads\\tagnames.txt";
